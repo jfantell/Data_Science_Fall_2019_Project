@@ -5,3 +5,4 @@ https://www.ncdc.noaa.gov/cdo-web/search?datasetid=GHCND
 
 # EPA Air Quality Data 
 https://www.epa.gov/outdoor-air-quality-data/download-daily-data
+https://aqs.epa.gov/aqsweb/airdata/download_files.html
