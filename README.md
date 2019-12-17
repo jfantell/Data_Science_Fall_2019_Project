@@ -1,5 +1,34 @@
 # Data_Science_Fall_2019_Project
 
+## GENERAL NOTES:
+
+Many of the raw data CSV files are larger than GitHub's 100 mb maximum file size. As such, the 
+raw data CSV files can be downloaded externally at the following URL:
+
+[Raw Data URL](https://drive.google.com/drive/folders/1G-fV2YWhG_c2FKEsuA5vwFHj-6XhZKM6?usp=sharing)
+
+The report that accompanies this project can be downloaded at the following URL:
+
+[Final Report URL](https://docs.google.com/document/d/10fHlA0DAObA4DixgRPCk7LNVbzU070HJNloid45H1hA/edit?usp=sharing)
+
+## Jupyter Notebooks
+
+Two Jupyter notebooks were created and used in this project. They are titled `Data_Analysis.ipynb` and 
+`Data_Processing.ipynb.` The first notebook is responsible for cleaning and merging the raw data. It generates
+a CSV file titled `epa_noaa.csv` which is the final dataset. The second notebook is responsible for building
+modeling the data via linear regression and visualizing the models. These notebooks can used in any Python 3 
+environment with the following packages installed:
+
+imutils
+pandas
+numpy
+tqdm
+matplotlib
+seaborn
+scikit-learn
+scipy
+
+
 ## NOAA Daily Weather Data
 
 ### Description: 
